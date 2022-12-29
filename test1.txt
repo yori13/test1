@@ -2,3 +2,4 @@ ssssss
 aaaaaa
 outside
 inside
+center
