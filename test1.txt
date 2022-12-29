@@ -1,7 +1,4 @@
 ssssss
 aaaaaa
-<<<<<<< HEAD
 outside
-=======
 inside
->>>>>>> db1332f88100e6399e426d0c5e9fad084bf1cde4
